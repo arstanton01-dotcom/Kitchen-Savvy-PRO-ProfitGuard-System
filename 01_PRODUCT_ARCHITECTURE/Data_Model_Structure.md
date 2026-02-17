@@ -1,4 +1,5 @@
 # Data Model Structure
+<<<<<<< HEAD
 
 ## Overview
 This document defines all tables, columns, and relationships for the ProfitGuard System.
@@ -50,3 +51,6 @@ This document defines all tables, columns, and relationships for the ProfitGuard
 - Vendors → Invoices (1:M)
 - Menu_Items → Inventory (1:M)
 - Invoices → Recovery_Queue (1:1 mapping per discrepancy)
+=======
+[...paste full content...]
+>>>>>>> 4b0d977 (Add finalized content for all project folders and files)

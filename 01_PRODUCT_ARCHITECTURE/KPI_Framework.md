@@ -1,4 +1,5 @@
 # KPI Framework
+<<<<<<< HEAD
 
 ## Key Metrics
 - **Food Cost %:** Actual food cost ÷ sales, daily/weekly
@@ -19,3 +20,6 @@
 - Automated reports: Email, PDF export
 - Benchmarking: Peer cohort and historical trends
 - Recovery pipeline: Value × probability × ease of collection
+=======
+[...paste full content...]
+>>>>>>> 4b0d977 (Add finalized content for all project folders and files)

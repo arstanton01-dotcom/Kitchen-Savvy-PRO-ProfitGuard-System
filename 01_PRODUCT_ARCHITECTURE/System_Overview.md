@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Kitchen Savvy Pro – ProfitGuard System
 Core System Blueprint
 1. Executive Summary
@@ -353,3 +354,34 @@ Achieve consistent weekly usage
 
 Phase 1 establishes ProfitGuard as a precision margin recovery engine.
 Advanced intelligence layers are built only after validated recurring revenue.
+=======
+# System Overview  
+Kitchen Savvy Pro – ProfitGuard System  
+
+## Executive Summary
+ProfitGuard is a financial intelligence and margin protection platform built specifically for independent restaurants. The system continuously analyzes vendor invoices, detects pricing discrepancies, identifies contract violations, calculates recoverable losses, assigns vendor risk scores, and automates margin defense workflows.
+
+## Core Problem Definition
+Independent restaurants lose margin due to vendor price creep, contract non-compliance, quantity discrepancies, and lack of structured cost analytics.
+
+## Product Vision
+ProfitGuard becomes the financial control layer between restaurants and their vendors, evolving into predictive margin defense intelligence.
+
+## System Architecture Overview
+1. Ingestion Layer  
+2. OCR & Data Extraction Layer  
+3. Data Normalization Layer  
+4. Detection Engine  
+5. Recovery Engine  
+6. Risk Intelligence Layer  
+
+## Guiding Product Principles
+1. Margin First  
+2. Automation Over Manual Review  
+3. Explainable Intelligence  
+4. Financial Quantification  
+5. Vendor Accountability  
+6. Scalability  
+7. Data Integrity  
+
+>>>>>>> 4b0d977 (Add finalized content for all project folders and files)

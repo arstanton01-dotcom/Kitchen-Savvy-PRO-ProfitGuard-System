@@ -1,4 +1,5 @@
 # Security Model
+<<<<<<< HEAD
 
 ## Roles & Permissions
 | Role       | Access Level                      |
@@ -21,3 +22,6 @@
 - Daily backups
 - Enforced HTTPS connections
 - Multi-level approval for critical recovery actions
+=======
+[...paste full content...]
+>>>>>>> 4b0d977 (Add finalized content for all project folders and files)

@@ -1,4 +1,5 @@
 # Automation Map
+<<<<<<< HEAD
 
 ## Workflow Triggers
 - **Invoice Upload:** PDF, CSV, or AP system triggers line-item parsing.
@@ -15,3 +16,6 @@
 - Alerts: Dashboard, Email
 - Recovery Queue: Prioritized by value and urgency
 - Vendor Compliance Scorecards
+=======
+[...paste full content...]
+>>>>>>> 4b0d977 (Add finalized content for all project folders and files)

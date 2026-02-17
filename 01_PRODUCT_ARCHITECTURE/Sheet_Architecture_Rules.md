@@ -1,4 +1,5 @@
 # Sheet Architecture Rules
+<<<<<<< HEAD
 
 ## Branding and Layout
 - **Top Wall (Rows 1–3):** Reserved for brand identity. Must remain consistent across all tabs.
@@ -31,3 +32,6 @@
 - **Calculated/Protected cells:** white background (#FFFFFF)
 - **Validation:** Vendor Name + Item Name required before row can be pushed to tracker
 
+=======
+[...paste full content...]
+>>>>>>> 4b0d977 (Add finalized content for all project folders and files)
